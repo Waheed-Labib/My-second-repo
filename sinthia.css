@@ -1,0 +1,22 @@
+#first-line{
+    font-size: 5em;
+    color: blue;    
+    margin-left: 50px;
+}
+
+#second-line{
+    font-size: 10em;
+    color: red;
+    margin-left: 200px;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+img{
+    margin: 20%;
+    margin-top: 1%;
+    height: 30em;
+    width: 30em;
+}
